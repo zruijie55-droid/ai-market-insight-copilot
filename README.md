@@ -3,7 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.50.0-FF4B4B)
 ![Tests](https://img.shields.io/badge/tests-64%20passed-2E8B57)
+[![CI](https://github.com/zruijie55-droid/ai-market-insight-copilot/actions/workflows/tests.yml/badge.svg)](https://github.com/zruijie55-droid/ai-market-insight-copilot/actions/workflows/tests.yml)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+
+**源代码：** [GitHub 仓库](https://github.com/zruijie55-droid/ai-market-insight-copilot)
 
 > **个人独立练习项目 · 规则版 + 可选大模型增强**。本地运行、浏览器操作，**无 API Key 也能用**。
 > 全部演示数据均为**模拟数据（source=synthetic）**，不代表真实市场。
