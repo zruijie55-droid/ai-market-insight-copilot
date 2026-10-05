@@ -1,0 +1,25 @@
+# 依赖与缓存
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.pyc
+streamlit_cache/
+.pytest_cache/
+
+# 密钥与私有数据（切勿提交）
+.env
+.env.*
+!*.example
+
+# 打包产物
+*.zip
+output/
+*.log
+*.crdownload
+
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

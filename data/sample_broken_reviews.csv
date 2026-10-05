@@ -1,0 +1,7 @@
+﻿review_id,product_id,rating,review_text,review_date,source
+R0001,P001,5,很好用。,2025-01-01,synthetic
+R0001,P001,4,重复 review_id。,2025-01-02,synthetic
+R0002,P999,3,商品不存在。,2025-01-03,synthetic
+R0003,P001,9,评分超范围。,2025-01-04,synthetic
+R0004,P001,2,,2025-01-05,synthetic
+R0005,P002,好,评分非数字。,2025-01-06,synthetic

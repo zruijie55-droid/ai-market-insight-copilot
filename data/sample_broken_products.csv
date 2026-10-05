@@ -1,0 +1,8 @@
+﻿product_id,brand,product_name,price,capacity_mah,power_w,weight_g,source
+P001,安克,安克 20000mAh 移动电源,159,20000,22.5,350,synthetic
+P001,安克,重复ID样例,159,20000,22.5,350,synthetic
+,无ID,缺 product_id,99,10000,18,200,synthetic
+P002,小米,负价格样例,-50,10000,18,200,synthetic
+P003,绿联,容量无效,129,-5000,20,210,synthetic
+P004,倍思,功率缺失,139,15000,,240,synthetic
+P005,品胜,,119,12000,20,230,synthetic
